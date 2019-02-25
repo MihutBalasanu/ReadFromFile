@@ -11,7 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        readFromFile("readFromFile/src/Pentalog.txt");
+        readFromFile("src/Pentalog.txt");
 
     }
 }
